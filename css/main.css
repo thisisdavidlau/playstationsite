@@ -1,0 +1,114 @@
+/*===============================
+				NAV
+===============================*/
+
+.topBlack {
+	width: 100%;
+	height: 35px;
+	background-color: #000000;
+}
+
+.sonyLogo {
+	float: right;
+	margin-right: 10px;
+	height: 35px;
+}
+
+.navbar {
+	width: 100%;
+	height: 65px;
+	background: rgba(31,133,229,1);
+	border-radius: 0 !important;
+	margin: 0 !important;
+background: rgba(31,133,229,1);
+background: -moz-linear-gradient(top, rgba(31,133,229,1) 0%, rgba(11,91,182,1) 48%, rgba(0,68,157,1) 74%, rgba(0,68,157,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(31,133,229,1)), color-stop(48%, rgba(11,91,182,1)), color-stop(74%, rgba(0,68,157,1)), color-stop(100%, rgba(0,68,157,1)));
+background: -webkit-linear-gradient(top, rgba(31,133,229,1) 0%, rgba(11,91,182,1) 48%, rgba(0,68,157,1) 74%, rgba(0,68,157,1) 100%);
+background: -o-linear-gradient(top, rgba(31,133,229,1) 0%, rgba(11,91,182,1) 48%, rgba(0,68,157,1) 74%, rgba(0,68,157,1) 100%);
+background: -ms-linear-gradient(top, rgba(31,133,229,1) 0%, rgba(11,91,182,1) 48%, rgba(0,68,157,1) 74%, rgba(0,68,157,1) 100%);
+background: linear-gradient(to bottom, rgba(31,133,229,1) 0%, rgba(11,91,182,1) 48%, rgba(0,68,157,1) 74%, rgba(0,68,157,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f85e5', endColorstr='#00449d', GradientType=0 );
+}
+
+.psLogo {
+	position: relative;
+	height: 30px;
+	top: 15px;
+	left: 50px;
+}
+
+
+.myLink {
+	float: right;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: white;
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.3);
+	position: relative;
+	top: 20px;
+	font-size: 18px;
+	margin-right: 50px;
+}
+
+.navbar .myLink:hover {
+	text-decoration: none !important;
+}
+
+a:link {
+	text-decoration: none !important;
+}
+
+a:hover {
+	color: white !important;
+}
+
+
+.avatar {
+	height: 20px;
+	float: right;
+	position: relative;
+	top: 22px;
+	right: 10px;
+}
+
+
+/*===============================
+		INTRO
+===============================*/
+
+.intro {
+	width: 100%;
+	height: 600px;
+	background-color: lightgray;
+}
+
+.textBox {
+	width: 70%;
+	height: 120px;
+	background: rgba(0, 0, 0, .85); 
+	margin: 0 auto;
+	position: relative;
+	top: 400px;
+}
+
+
+/*===============================
+		   BANNER
+===============================*/
+
+.ff7img {
+	width: 100%;
+}
+
+.carousel-caption {
+	/*width: 70%;*/
+	height: 100px;
+	background: rgba(0, 0, 0, .85); 
+	margin: 0 auto;
+	position: relative;
+	top: 400px;
+}
+
+
+
+
+
